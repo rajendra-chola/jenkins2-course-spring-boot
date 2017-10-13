@@ -22,6 +22,7 @@ public class Message {
 
 	private String message;
 
+    // Author of the message
 	private String author;
 
 	private long time = new Date().getTime();
